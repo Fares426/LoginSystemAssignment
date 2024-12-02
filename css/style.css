@@ -1,0 +1,25 @@
+body {
+    background-color: rgb(36,53,63);
+}
+
+.holder-div {
+    height: 100vh;
+}
+
+.card-main {
+    background-color: rgb(36,53,63);
+}
+
+.form-control {
+    background-color: transparent; /* Transparent background */
+    
+  }
+
+  .form-control::placeholder {
+    color: #9fb3c8; /* Placeholder text color */
+    font-style: italic; /* Optional: Italic for placeholder */
+  }
+
+  button:hover {
+    color: white !important
+  }
